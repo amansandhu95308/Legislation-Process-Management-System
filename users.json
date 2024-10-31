@@ -1,0 +1,7 @@
+[
+    {
+        "username": "admin",
+        "password": "hashed_password_here",
+        "role": "Administrator"
+    }
+]

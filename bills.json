@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Healthcare Bill",
+        "description": "Description of the healthcare bill",
+        "author": "MP123",
+        "status": "Draft",
+        "versions": ["Initial draft of the bill"]
+    }
+]
