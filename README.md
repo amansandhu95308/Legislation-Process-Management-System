@@ -34,8 +34,6 @@ Installation
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/your-username/legislation-process-management-system.git
 Install dependencies via Composer:
 
 bash
@@ -47,13 +45,11 @@ Usage
 Start a local PHP server:
 
 bash
-Copy code
+
 php -S localhost:8000 -t public
 Access the application in your browser at:
 
 arduino
-Copy code
-http://localhost:8000
 Testing the Application
 Administrator Login: Use the provided admin username to log in.
 CRUD Operations: As an administrator, perform create, read, update, and delete actions on legislative bills.
